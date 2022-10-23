@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const environment = {\n  production: true,\n  apiUrl: 'https://swift-finance.herokuapp.com',\n  tokenAllowedDomains: [/swift-finance.herokuapp.com/],\n  tokenDisallowedRoutes: [/\\/oauth\\/token/]\n};","map":null,"metadata":{},"sourceType":"module"}
